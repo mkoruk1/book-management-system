@@ -28,15 +28,14 @@ void LinkedList::printList()
 void LinkedList::loadFromDatabase()
 {
     Node obj;
-    ifstream file;
-    file.open("Database.txt");
-    while (true)
+    ifstream file("Database.txt",ios::in);
+    while(true)
     {
     file>>obj.isbn>>obj.name>>obj.author>>obj.pubYear>>obj.status;
-    if (!file)break;
+    if (!file){break;}
     insertBook(&obj);
     }
-    cout<<endl<<"SUCCESFULLY LOADED FROM DATABASE."<<endl;
+    cout<<endl<<"SUCCESFULLY LOADED FROM DATABASE.";
     file.close();
 }
 
