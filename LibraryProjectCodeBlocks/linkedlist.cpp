@@ -232,7 +232,7 @@ void LinkedList::loginScren()
 {
     char test;
     cout<<"==========================================";
-    cout<<"\n\n\n\t\t LIBRARY";
+    cout<<"\n\n\n\t\t  BOOK";
 	cout<<"\n\n\t\tMANAGEMENT";
 	cout<<"\n\n\t\t SYSTEM";
 	cout<<"\n\n\n=========================================="<<endl;
