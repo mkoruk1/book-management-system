@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1632583692 source:c:\users\w10\desktop\c-c++\c++ codes\libraryproject\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1632583884 source:c:\users\w10\desktop\c-c++\c++ codes\libraryproject\linkedlist.cpp
+	"linkedlist.h"
+
+1632583694 c:\users\w10\desktop\c-c++\c++ codes\libraryproject\linkedlist.h
+	"book.h"
+
+1632583693 c:\users\w10\desktop\c-c++\c++ codes\libraryproject\book.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<Windows.h>
+	<fstream>
+
+1632584094 source:c:\users\w10\desktop\c-c++\school\libraryproject\libraryproject\linkedlist.cpp
+	"linkedlist.h"
+
+1632583694 c:\users\w10\desktop\c-c++\school\libraryproject\libraryproject\linkedlist.h
+	"book.h"
+
+1632583693 c:\users\w10\desktop\c-c++\school\libraryproject\libraryproject\book.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<Windows.h>
+	<fstream>
+
+1632583692 source:c:\users\w10\desktop\c-c++\school\libraryproject\libraryproject\main.cpp
+	<iostream>
+	"linkedlist.h"
+
