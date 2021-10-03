@@ -1,6 +1,6 @@
 # Book-Management-System
 
-Created a Book Management System in c++ language using Linked Lists, libraries, and classes. 
+Created a Book Management System in c++ language using Linked List and classes. 
 
 You can add books, delete books and see the available book list. I also created a database for the program to store data to the file and load the data inside the file to the program. I used Code::Blocks to develop the project. If you don't have Code::Blocks I added a single main.cpp file inside the SingleFile folder.
 
